@@ -11,9 +11,9 @@ Shinta Ayu C.K.
 <br>
 </h3>
 
-<h6 align="center">
 Credit to [Callicoder](https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/
-)</h6>
+)
+<br>
 
 ## Steps to Setup
 
