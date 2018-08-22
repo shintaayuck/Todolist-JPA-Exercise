@@ -1,18 +1,23 @@
-## Spring Boot, PostgreSQL, JPA, Hibernate REST API Demo
 
-## Tutorial
+<h1 align="center">
+  <br>
+  Todolist Application using Spring Boot, PostgreSQL, JPA, Hibernate REST API
+  <br>
+  <br>
+</h1>
 
-Check out the complete tutorial on the CalliCoder blog -
+<h3 align="center">
+Shinta Ayu C.K.
+<br>
+</h3>
 
-[Spring Boot, PostgreSQL, JPA, Hibernate RESTful CRUD API Example](https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/)
+<h6 align="center">
+Credit to [Callicoder](https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/
+)</h6>
 
 ## Steps to Setup
 
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/callicoder/spring-boot-postgresql-jpa-hibernate-rest-api-demo.git
-```
+**1. Clone this repository**
 
 **2. Configure PostgreSQL**
 
@@ -32,3 +37,4 @@ Alternatively, you can package the application in the form of a JAR file and the
 mvn clean package
 java -jar target/postgres-demo-0.0.1-SNAPSHOT.jar
 ```
+
