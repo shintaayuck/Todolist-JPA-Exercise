@@ -1,0 +1,9 @@
+/Users/shintaayuck/Downloads/Future/tugas-jpa/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
+/Users/shintaayuck/Downloads/Future/tugas-jpa/src/main/java/com/example/postgresdemo/repository/UserRepository.java
+/Users/shintaayuck/Downloads/Future/tugas-jpa/src/main/java/com/example/postgresdemo/model/Todo.java
+/Users/shintaayuck/Downloads/Future/tugas-jpa/src/main/java/com/example/postgresdemo/model/AuditModel.java
+/Users/shintaayuck/Downloads/Future/tugas-jpa/src/main/java/com/example/postgresdemo/repository/TodoRepository.java
+/Users/shintaayuck/Downloads/Future/tugas-jpa/src/main/java/com/example/postgresdemo/model/User.java
+/Users/shintaayuck/Downloads/Future/tugas-jpa/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/Users/shintaayuck/Downloads/Future/tugas-jpa/src/main/java/com/example/postgresdemo/controller/TodoController.java
+/Users/shintaayuck/Downloads/Future/tugas-jpa/src/main/java/com/example/postgresdemo/controller/UserController.java
